@@ -1,12 +1,12 @@
 <h1 align="left">🕵️‍♂️ Taqi Tahmid</h1>
-<h3 align="left">Cybersecurity and CS at Drexel</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif">
+<h3 align="left">💻Cybersecurity and CS at Drexel</h3>
+<img align="right" alt="Coding" width="450" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 
 Hi! My name is Taqi Tahmid an undergraduate student at Drexel University studying Cybersecurity and Computer Science. I am deeply passionate about the engineering aspects of cybersecurity. My pursuit is driven by a desire to understand the intricacies of cybersecurity and its profound implications on global security, technology, and society. Actively seeking internships and opportunities for personal and professional growth, I aim to immerse myself in the ever-evolving field of cybersecurity, where I can apply engineering principles to address complex challenges and contribute to meaningful advancements in the industry.
 
 - 👨‍💻 I’m currently learning **Penetration Testing**
 
-- 📫 How to reach me **tt676@drexel.edu**
+- 📫 How to reach me: **tt676@drexel.edu**
 
 - ⚡ Fun fact **I love modifying cars**
 
