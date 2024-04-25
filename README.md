@@ -2,7 +2,11 @@
 <h3 align="left">💻Cybersecurity and CS at Drexel</h3>
 <img style="margin-top: 3000px;" align="right" alt="Coding" width="350" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 
-Hi😄 My name is Taqi Tahmid an undergraduate student at Drexel University studying Cybersecurity and Computer Science. I am deeply passionate about the engineering aspects of cybersecurity. My pursuit is driven by a desire to understand the intricacies of cybersecurity and its profound implications on global security, technology, and society. Actively seeking internships and opportunities for personal and professional growth, I aim to immerse myself in the ever-evolving field of cybersecurity, where I can apply engineering principles to address complex challenges and contribute to meaningful advancements in the industry.
+Hi😄 My name is Taqi Tahmid an undergraduate student at Drexel University studying Cybersecurity and Computer Science. 
+
+I am deeply passionate about the engineering aspects of cybersecurity. My pursuit is driven by a desire to understand the intricacies of cybersecurity and its profound implications on global security, technology, and society.
+
+I am actively seeking internships and opportunities for personal and professional growth. I aim to immerse myself in the ever-evolving field of cybersecurity, where I can apply engineering principles to address complex challenges and contribute to meaningful advancements in the industry.
 
 - 👨‍💻 I’m currently learning **Penetration Testing**
 
