@@ -35,13 +35,18 @@ I am actively seeking internships and opportunities for personal and professiona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taqit&show_icons=true&theme=synthwave&title_color=880ced&text_color=880ced&locale=en" alt="taqit" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaqiT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaqiT&radius=16&theme=arctic&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/taqi-tahmid-46b2b7209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taqi-tahmid-46b2b7209/" height="30" width="40" /></a>
 <a href="https://instagram.com/itz.taqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.taqi" height="30" width="40" /></a>
 <a href="https://discord.gg/taqi_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taqi_." height="30" width="40" /></a>
 </p>
+
 
 
