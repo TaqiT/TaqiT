@@ -48,5 +48,6 @@ I am actively seeking internships and opportunities for personal and professiona
 <a href="https://discord.gg/taqi_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taqi_." height="30" width="40" /></a>
 </p>
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Verlias&repo=MelodyMatch-Codefest2024&theme=prussian)](https://github.com/Verlias/MelodyMatch-Codefest2024)
 
 
