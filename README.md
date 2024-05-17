@@ -1,4 +1,4 @@
-<h1 align="left">🕵️‍♂️ Taqi Tahmid</h1>
+<h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=650&size=30&duration=4000&pause=1000&color=28DEF7&multiline=true&random=false&width=435&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8FTaqi+Tahmid" </h1>
 <h3 align="left">💻Cybersecurity and CS at Drexel</h3>
 <img align="right" alt="Coding" width="300" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 
