@@ -43,7 +43,7 @@ I am actively seeking internships and opportunities for personal and professiona
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/taqi-tahmid-46b2b7209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taqi-tahmid-46b2b7209/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/taqitahmid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taqi-tahmid-46b2b7209/" height="30" width="40" /></a>
 <a href="https://instagram.com/itz.taqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.taqi" height="30" width="40" /></a>
 <a href="https://discord.gg/taqi_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taqi_." height="30" width="40" /></a>
 </p>
