@@ -2,13 +2,15 @@
 <h3 align="left">☁️Cloud and CS at Drexel</h3>
 <img align="right" alt="Coding" width="300" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 
-Hi😄 My name is Taqi Tahmid an undergraduate student at Drexel University studying Cybersecurity and Computer Science. 
+Hi😄 My name is Taqi Tahmid
 
-I am deeply passionate about the engineering aspects of cybersecurity. My pursuit is driven by a desire to understand the intricacies of cybersecurity and its profound implications on global security, technology, and society.
+I'm an undergraduate student at Drexel University, studying Computer Science and Data Science with a strong interest in cloud computing, solutions architecture, network engineering, and infrastructure security. I’m driven by a passion for building innovative solutions to complex challenges and honing my skills in cloud-based applications and secure infrastructure.
 
-I am actively seeking internships and opportunities for personal and professional growth. I aim to immerse myself in the ever-evolving field of cybersecurity, where I can apply engineering principles to address complex challenges and contribute to meaningful advancements in the industry.
+Whether working independently or in a team, I find fulfillment in crafting software and systems that make a real impact. My journey is centered around advancing technology and creating scalable, resilient solutions.
 
-- 👨‍💻 I’m currently learning **Penetration Testing**
+Let’s connect! Feel free to reach me at tt676@drexel.edu.
+
+- 👨‍💻 I’m currently learning **Cloud Infrastructure**
 
 - 📫 How to reach me: **tt676@drexel.edu**
 
