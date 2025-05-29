@@ -3,11 +3,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=taqit&label=Profile%20views&color=0e75b6&style=flat" alt="taqit" /> </p>
 <img align="right" alt="Coding" width="300" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 
-Hi😄 My name is Taqi Tahmid
-
-I'm an undergraduate student at Drexel University, studying Computer Science and Data Science with a strong interest in cloud computing, solutions architecture, network engineering, and infrastructure security. I’m driven by a passion for building innovative solutions to complex challenges and honing my skills in cloud-based applications and secure infrastructure.
-
-Whether working independently or in a team, I find fulfillment in crafting software and systems that make a real impact. My journey is centered around advancing technology and creating scalable, resilient solutions.
+Hi, I’m Taqi Tahmid 👋
+I’m passionate about building technology that shapes the future.
+My focus areas include cloud computing, AI, and security—developing tools that make a meaningful impact on how we live and work.
+I'm especially interested in human-AI interaction and designing systems that enhance AI’s effectiveness and alignment with human needs.
+Always open to learning, collaborating, and creating what’s next.
 
 Let’s connect! Feel free to reach me at tt676@drexel.edu.
 
